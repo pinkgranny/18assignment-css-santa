@@ -1,4 +1,4 @@
-# Sprint 3 – :santa: Santa Competition :santa:
+# Sprint 4 – :santa: Santa Competition :santa:
 
 It's the last day before Christmas – hurray! Today's assignment is all about having fun and getting into the Christmas spirit. Your task is to create a image of santa using ONLY HTML and CSS. This is also a competition and the best looking santa, voted for by the class, get's to recieve the annual Sandra competition price. GAME ON! 
 
