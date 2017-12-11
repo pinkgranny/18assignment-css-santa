@@ -8,8 +8,8 @@ In hopes that St Nicholas soon would be there.
 
 The children were nestled all snug in their beds,
 While visions of sugar-plums danced in their heads.
-The students by their laptops, awaited their next quest,
-The task to build old St Nick, Santa, with just CSS.
+The students received the next task, with their mouths full of sweets,
+The task to build Santa using just style sheets.
 ```
 
 ---
