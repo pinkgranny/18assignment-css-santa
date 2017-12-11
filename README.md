@@ -1,20 +1,33 @@
 # Sprint 4 – :santa: Santa Competition :santa:
 
-It's the last day before Christmas – hurray! Today's assignment is all about having fun and getting into the Christmas spirit. Your task is to create a image of santa using ONLY HTML and CSS. This is also a competition and the best looking santa, voted for by the class, get's to recieve the annual Sandra competition price. GAME ON! 
+Twas the night before Christmas, when all through the house
+Not a creature was stirring, not even a mouse.
+The stockings were hung by the chimney with care,
+In hopes that St Nicholas soon would be there.
+
+The children were nestled all snug in their beds,
+While visions of sugar-plums danced in their heads.
+The students by their laptops, awaited their next quest,
+The task to build old St Nick, Santa, with just CSS.
+
+---
+
+Today's assignment is all about having fun and getting into the Christmas spirit. Your task is to create a image of Santa using ONLY HTML and CSS. This is also a competition and the best looking Santa, voted for by the class, gets to receive the annual Sandra competition price. GAME ON!
 
 ## How to complete this assignment
 
 ### Rules
-You need to draw an image of a Santa using ONLY HTML and CSS. A tip is use lot's of divs that you give colors and shapes – absolut positioning will be your bff in this. Everything you can do with CSS is allowd - GO NUTS. The more the merrier! 
 
-To you help you also have some Glögg, some beers and a nice Christmas lunch. 
+You need to construct an image of a Santa using ONLY HTML and CSS. A tip is use lot's of divs that you give colors and shapes – absolute positioning will be your bff in this. Everything you can do with CSS is allowed - GO NUTS. The more the merrier!
 
-At 2 PM the latest you need to deploy your Santa and post it in a PM to Damien on Slack. We will then later start with the anonymus voting. Good luck! 
+One cannot draw Santa on an empty stomach, so to you help you out, we'll have some Glögg, some beers, and a nice Christmas lunch. Ho ho ho.
+
+At 2 PM the latest you need to deploy your Santa and post it in a PM to Damien on Slack. We will then later start with the anonymous voting. Good luck!
 
 ### :books: Reading List
 
 * [Code Pen Examples – How I got started with CSS images](https://blog.prototypr.io/how-i-started-drawing-css-images-3fd878675c89)
-* [A beginners guiide to pure CSS images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)
+* [A beginners guide to pure CSS images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)
 
 ---
 
@@ -30,5 +43,4 @@ Learning how to think as a web developer is learning how to be an expert in prob
 
 ### :boom: Success!
 
-After completing this assignment you will have a greater understanding on how to use HTML and CSS to create images. Having simple shapes coded instead of using an image can be beneficial in terms of optimisation and responsiveness. Also, we hope you have some fun and get into a festive spirit. 
-
+After completing this assignment you will have a greater understanding on how to use HTML and CSS to create images. Having simple shapes coded instead of using an image can be beneficial in terms of optimisation and responsiveness. Also, we hope you have some fun and get into a festive spirit.
