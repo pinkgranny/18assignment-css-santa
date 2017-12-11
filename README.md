@@ -12,7 +12,7 @@ The task to build old St Nick, Santa, with just CSS.
 
 ---
 
-Today's assignment is all about having fun and getting into the Christmas spirit. Your task is to create a image of Santa using ONLY HTML and CSS. This is also a competition and the best looking Santa, voted for by the class, gets to receive the annual Sandra competition price. GAME ON!
+Today's assignment is all about having fun and getting into the Christmas spirit. Your task is to create a image of Santa using ONLY HTML and CSS. This is also a competition and the best looking Santa, voted for by the class, gets to receive the annual Santa competition price. GAME ON!
 
 ## How to complete this assignment
 
