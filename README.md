@@ -24,7 +24,7 @@ You need to construct an image of a Santa using ONLY HTML and CSS. A tip is use 
 
 One cannot draw Santa on an empty stomach, so to you help you out, we'll have some Glögg, some beers, and a nice Christmas lunch. Ho ho ho.
 
-At 2 PM the latest you need to deploy your Santa and post it in a PM to Damien on Slack. We will then later start with the anonymous voting. Good luck!
+At 1.30 PM the latest you need to deploy your Santa and post it in a PM to Damien on Slack. We will then later start with the anonymous voting. Good luck!
 
 ### :books: Reading List
 
